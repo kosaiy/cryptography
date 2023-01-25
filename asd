@@ -1,4 +1,5 @@
 /* 
+HashTransformation
 this code not safe do not use it
 */
 
